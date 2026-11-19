@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+
+# local environment files
+.env*
+
+# TypeScript build output
+*.tsbuildinfo
+
+# Vercel project settings
+.vercel/
+
+# OS files
+.DS_Store
+Thumbs.db
