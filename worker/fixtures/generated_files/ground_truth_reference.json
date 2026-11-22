@@ -1,0 +1,615 @@
+[
+  {
+    "pair_id": "P01",
+    "title": "DEMO Continuous Voter Registration Guidelines",
+    "split": "dev",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "31 December 2026",
+        "new_substring": "15 January 2027",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M01",
+            "Register to vote before 31 December 2026"
+          ],
+          [
+            "M01",
+            "closes on 31 December 2026"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "30 days",
+        "new_substring": "60 days",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M02",
+            "collect your PVC within 30 days"
+          ],
+          [
+            "M03",
+            "collect their Permanent Voter's Card within 30 days"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "present their PVC for accreditation",
+        "new_substring": "valid form of identification",
+        "expected_category": "required_documents",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M02",
+            "present your PVC"
+          ]
+        ]
+      },
+      {
+        "expected_type": "deletion",
+        "old_substring": "accompanied by one companion",
+        "new_substring": null,
+        "expected_category": "uncategorized",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M03",
+            "accompanied by one companion"
+          ]
+        ]
+      },
+      {
+        "expected_type": "insertion",
+        "old_substring": null,
+        "new_substring": "apply for transfer of registration",
+        "expected_category": "cvr_transfer",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  },
+  {
+    "pair_id": "P02",
+    "title": "Polling Unit Accreditation and Voting Procedure Notice",
+    "split": "dev",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "2:00 PM",
+        "new_substring": "2:30 PM",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M04",
+            "Accreditation and voting"
+          ],
+          [
+            "M04",
+            "Radio anchors should remind"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "issue an Incident Form",
+        "new_substring": "facial authentication",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M05",
+            "Presiding Officer shall issue an Incident Form"
+          ],
+          [
+            "M05",
+            "Record every voter who is given an Incident Form"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "12 months residency",
+        "new_substring": "without any minimum ward residency",
+        "expected_category": "eligibility",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M06",
+            "applicant must be at least 18 years old"
+          ],
+          [
+            "M06",
+            "Students transferring to campus"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "serial number of the BVAS",
+        "new_substring": "serial number and battery level",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  },
+  {
+    "pair_id": "P03",
+    "title": "Voter Transfer and Claims & Objections Regulations",
+    "split": "dev",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "30 days before election day",
+        "new_substring": "90 days before election day",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M07",
+            "Applications for transfer"
+          ],
+          [
+            "M07",
+            "Any request for transfer"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "for 7 days",
+        "new_substring": "for 14 days",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M08",
+            "preliminary register of voters shall be displayed"
+          ],
+          [
+            "M08",
+            "Visit your ward headquarters during the 7 days"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "sworn court affidavit and a police extract",
+        "new_substring": "Form EC-9B",
+        "expected_category": "required_documents",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M09",
+            "An application for replacement"
+          ],
+          [
+            "M09",
+            "Visit the nearest station"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "file daily summaries",
+        "new_substring": "file daily electronic summaries",
+        "expected_category": "cvr_transfer",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  },
+  {
+    "pair_id": "P04",
+    "title": "Framework and Guidelines for Internally Displaced Persons (IDP) Voting",
+    "split": "dev",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "10 October 2026",
+        "new_substring": "25 November 2026",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M10",
+            "Internally displaced persons"
+          ],
+          [
+            "M10",
+            "Mobile registration teams"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "camp registration slip signed by the camp manager",
+        "new_substring": "camp registration slips shall not be accepted",
+        "expected_category": "required_documents",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M11",
+            "Displaced voters without a physical PVC"
+          ],
+          [
+            "M11",
+            "Ensure your camp registration slip"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "Presidential and Governorship elections",
+        "new_substring": "only in the Presidential election",
+        "expected_category": "eligibility",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M12",
+            "Displaced voters residing in camps"
+          ],
+          [
+            "M12",
+            "Out-of-state IDP camps"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "unarmed civil defence personnel",
+        "new_substring": "inter-agency electoral security personnel",
+        "expected_category": "uncategorized",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  },
+  {
+    "pair_id": "P05",
+    "title": "Guidelines on Persons with Disabilities (PWD) and Assistive Voting",
+    "split": "dev",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "at least 20 registered visually impaired voters",
+        "new_substring": "at least 1 registered visually impaired voter",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M13",
+            "at least 20 registered visually impaired voters"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "after 11:00 AM",
+        "new_substring": "from 8:30 AM",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M14",
+            "11:00 AM"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "including a party agent",
+        "new_substring": "shall not be assisted by a party agent",
+        "expected_category": "eligibility",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M15",
+            "including a party agent"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "counts on Form EC40H.",
+        "new_substring": "counts on Form EC40H and transmit the summary.",
+        "expected_category": "required_documents",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  },
+  {
+    "pair_id": "P06",
+    "title": "Polling Unit Delimitation and Emergency Relocation Circular",
+    "split": "dev",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "exceeds 1,000 voters",
+        "new_substring": "exceeds 750 voters",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M16",
+            "exceeds 1,000 voters"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "at least 7 days before the election",
+        "new_substring": "at least 30 days before the election",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M17",
+            "at least 7 days before the election"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "outside the registration area",
+        "new_substring": "within the same registration area",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M18",
+            "outside the registration area"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "verify GPS coordinates",
+        "new_substring": "verify and publish GPS coordinates",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  },
+  {
+    "pair_id": "P07",
+    "title": "Online Continuous Voter Registration (CVR) Portal Operational Rules",
+    "split": "dev",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "within 14 days",
+        "new_substring": "within 21 days",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M19",
+            "within 14 days"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "only at the State Headquarters office",
+        "new_substring": "all 774 Local Government Area offices",
+        "expected_category": "cvr_transfer",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M20",
+            "only at the State Headquarters office"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "both the earlier and later registration records shall be cancelled",
+        "new_substring": "original valid registration record is retained",
+        "expected_category": "eligibility",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M21",
+            "both the earlier and later registration records shall be cancelled"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "at midnight",
+        "new_substring": "at 2:00 AM",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  },
+  {
+    "pair_id": "P08",
+    "title": "Polling Unit Result Counting, Form EC8A Posting and Transmission Guidelines",
+    "split": "held_out",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "may optionally paste",
+        "new_substring": "must mandatorily paste",
+        "expected_category": "required_documents",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M22",
+            "may optionally paste"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "only after arriving at the Ward Collation Centre",
+        "new_substring": "directly from the polling unit immediately",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M23",
+            "only after arriving at the Ward Collation Centre"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "registered voters on the manual register",
+        "new_substring": "accredited voters recorded on the BVAS device",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M24",
+            "registered voters on the manual register"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "Used ballot counterfoils shall be sealed",
+        "new_substring": "Used ballot counterfoils and result copies shall be sealed",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  },
+  {
+    "pair_id": "P09",
+    "title": "Supplementary Directive on Permanent Voter Card (PVC) Collection",
+    "split": "held_out",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "authorize a family member with a signed power of attorney",
+        "new_substring": "collection by proxy or power of attorney is strictly prohibited",
+        "expected_category": "required_documents",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M25",
+            "authorize a family member with a signed power of attorney"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "20 January 2027",
+        "new_substring": "5 February 2027",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M26",
+            "20 January 2027"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "9:00 AM and 3:00 PM and are closed on Saturdays and Sundays",
+        "new_substring": "8:30 AM and 5:00 PM",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M27",
+            "9:00 AM and 3:00 PM"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "shall log the serial numbers",
+        "new_substring": "shall log and sign the serial numbers",
+        "expected_category": "required_documents",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  },
+  {
+    "pair_id": "P10",
+    "title": "Guidelines for Election Observation and Media Accreditation",
+    "split": "held_out",
+    "expected_changes": [
+      {
+        "expected_type": "replacement",
+        "old_substring": "5 February 2027",
+        "new_substring": "18 February 2027",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M28",
+            "5 February 2027"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "letter of introduction from their organization",
+        "new_substring": "QR-coded official INEC observer badge",
+        "expected_category": "required_documents",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": [
+          [
+            "M29",
+            "letter of introduction"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "permitted to photograph marked ballot papers",
+        "new_substring": "strictly prohibited",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": [
+          [
+            "M30",
+            "permitted to photograph marked ballot papers"
+          ]
+        ]
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "three days before the poll",
+        "new_substring": "two days before the poll",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": []
+      },
+      {
+        "expected_type": "replacement",
+        "old_substring": "within 14 days after the election",
+        "new_substring": "within 30 days after the election",
+        "expected_category": "deadlines_timelines",
+        "is_critical_date_or_eligibility": true,
+        "affected_material_ids": []
+      },
+      {
+        "expected_type": "insertion",
+        "old_substring": null,
+        "new_substring": "dedicated observer situation room hotline",
+        "expected_category": "polling_unit_accreditation",
+        "is_critical_date_or_eligibility": false,
+        "affected_material_ids": []
+      }
+    ]
+  }
+]

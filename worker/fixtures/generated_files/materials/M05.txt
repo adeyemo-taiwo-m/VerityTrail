@@ -1,0 +1,7 @@
+1. Biometric Verification
+
+Where fingerprint authentication fails on the BVAS device, the Presiding Officer shall issue an Incident Form to the voter.
+
+Record every voter who is given an Incident Form when fingerprint authentication fails on the BVAS device.
+
+Observers must wear their accreditation tags visibly at all times.

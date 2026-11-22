@@ -1,0 +1,13 @@
+1. Polling Unit Opening and Closing Hours
+
+Accreditation and voting at all polling units shall close promptly at 2:00 PM.
+
+2. Biometric Authentication on BVAS
+
+Where fingerprint authentication fails on the BVAS device, the Presiding Officer shall issue an Incident Form to the voter.3. Voter Registration Eligibility
+
+To register as a voter, an applicant must be at least 18 years old and provide proof of 12 months residency in the ward.
+
+4. Presiding Officer Logbook
+
+The Presiding Officer shall record the serial number of the BVAS device before opening the poll.

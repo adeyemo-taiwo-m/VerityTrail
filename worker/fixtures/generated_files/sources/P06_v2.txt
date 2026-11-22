@@ -1,0 +1,13 @@
+1. Threshold for Splitting Populous Polling Units
+
+A polling unit shall be split into voting points or new polling units when the number of registered voters exceeds 750 voters.
+
+2. Notice Period for Relocated Polling Units
+
+Notice of any polling unit relocated from a private residence or worship centre must be published at least 30 days before the election.3. Climate and Flood Emergency Relocation
+
+Where flash flooding submerges a polling unit, voting must be relocated strictly to a designated public school or civic hall within the same registration area.
+
+4. Geo-Coordinates Registry
+
+Electoral Officers shall verify and publish GPS coordinates for all newly split polling units.

@@ -1,0 +1,5 @@
+1. Checking for Over-Voting
+
+Over-voting occurs where total votes cast at a polling unit exceed the total number of registered voters on the manual register.
+
+All ballot papers in the rejected envelope must be endorsed.

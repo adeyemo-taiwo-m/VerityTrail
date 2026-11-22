@@ -1,0 +1,5 @@
+1. Polling Unit Splitting Threshold
+
+A polling unit shall be split into sub-units only when the number of registered voters exceeds 1,000 voters.
+
+Know your polling unit code before election morning.

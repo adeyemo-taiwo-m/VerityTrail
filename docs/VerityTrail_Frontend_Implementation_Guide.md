@@ -1,6 +1,6 @@
 # VerityTrail — Frontend + Supabase Implementation Guide (Taiwo's track)
 
-**For:** Taiwo's AI coding agent. **Scope:** everything the frontend needs, plus the Supabase layer (database, security rules, storage, RPC functions) that the frontend runs on.
+**Scope:** everything the frontend needs, plus the Supabase layer (database, security rules, storage, RPC functions) that the frontend runs on.
 **Not in scope:** the AI/pipeline worker (text extraction, diff, priority rules, retrieval, AI drafts, benchmark). That belongs to the AI teammate and is specified in `VerityTrail_AI_Pipeline_Handoff.md`. This guide defines the contract between the two sides (Section 5).
 **Source of truth:** `Election_Change_Radar_PRD.docx` (v2.0). The product is named **VerityTrail**. If this guide and the PRD disagree, the PRD wins; record the conflict in `docs/DECISIONS.md`.
 

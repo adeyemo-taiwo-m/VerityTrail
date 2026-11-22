@@ -14,3 +14,9 @@ out/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Python worker artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/

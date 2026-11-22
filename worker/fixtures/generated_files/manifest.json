@@ -1,0 +1,425 @@
+{
+  "benchmark_version": "1.0.0",
+  "source_pairs": [
+    {
+      "pair_id": "P01",
+      "title": "DEMO Continuous Voter Registration Guidelines",
+      "issuer": "Demo Issuer",
+      "jurisdiction": "Nigeria (Demo)",
+      "election_context": "2027 General Election Cycle",
+      "split": "dev",
+      "v1_pdf": "sources/P01_v1.pdf",
+      "v1_pdf_sha256": "09120f171136b27d6262c6f78880556cb858ee5a481a6e9862f2d2abff87ccd9",
+      "v2_pdf": "sources/P01_v2.pdf",
+      "v2_pdf_sha256": "26fb33622ccb86b8d2ace9baf36926981a5ec85a2d7059ce6ecaf9d3ea5c3c1c",
+      "v1_txt": "sources/P01_v1.txt",
+      "v2_txt": "sources/P01_v2.txt"
+    },
+    {
+      "pair_id": "P02",
+      "title": "Polling Unit Accreditation and Voting Procedure Notice",
+      "issuer": "Electoral Commission (Synthetic)",
+      "jurisdiction": "Nigeria",
+      "election_context": "2027 General Election Cycle",
+      "split": "dev",
+      "v1_pdf": "sources/P02_v1.pdf",
+      "v1_pdf_sha256": "b8c1391b5d131de0b46b0fab946c2e0499361793aa7520dc4c2143dff6e1ccbd",
+      "v2_pdf": "sources/P02_v2.pdf",
+      "v2_pdf_sha256": "155c24dc1f4cdf0cd0f81d228d58c7cf24fda2591c560cd7747fceb4ab96c184",
+      "v1_txt": "sources/P02_v1.txt",
+      "v2_txt": "sources/P02_v2.txt"
+    },
+    {
+      "pair_id": "P03",
+      "title": "Voter Transfer and Claims & Objections Regulations",
+      "issuer": "Electoral Commission (Synthetic)",
+      "jurisdiction": "Nigeria",
+      "election_context": "2027 General Election Cycle",
+      "split": "dev",
+      "v1_pdf": "sources/P03_v1.pdf",
+      "v1_pdf_sha256": "d3bd868cd1523e9abed504d4d3f3fd9582f60daa37be3aec8a8fdf6866628a70",
+      "v2_pdf": "sources/P03_v2.pdf",
+      "v2_pdf_sha256": "bc2a18ba0ca6acae24afb91f6f16dcd5db76e8136f51b3c2058ee65c18d55c50",
+      "v1_txt": "sources/P03_v1.txt",
+      "v2_txt": "sources/P03_v2.txt"
+    },
+    {
+      "pair_id": "P04",
+      "title": "Framework and Guidelines for Internally Displaced Persons (IDP) Voting",
+      "issuer": "Electoral Commission (Synthetic)",
+      "jurisdiction": "Nigeria",
+      "election_context": "2027 General Election Cycle",
+      "split": "dev",
+      "v1_pdf": "sources/P04_v1.pdf",
+      "v1_pdf_sha256": "3b34529cbf3bbf35dbf605a8329b371103a205ba0da0ab90f4c84323e49e120c",
+      "v2_pdf": "sources/P04_v2.pdf",
+      "v2_pdf_sha256": "c13445f579e877e8ec49ba3b1d0c34cd0fd5fdba3703b43fe950bd1daee0d2e8",
+      "v1_txt": "sources/P04_v1.txt",
+      "v2_txt": "sources/P04_v2.txt"
+    },
+    {
+      "pair_id": "P05",
+      "title": "Guidelines on Persons with Disabilities (PWD) and Assistive Voting",
+      "issuer": "Electoral Commission (Synthetic)",
+      "jurisdiction": "Nigeria",
+      "election_context": "2027 General Election Cycle",
+      "split": "dev",
+      "v1_pdf": "sources/P05_v1.pdf",
+      "v1_pdf_sha256": "0f13a559d7c6ce691644bb0128e2437671cdadbcfdc87b70898b38410b2df08d",
+      "v2_pdf": "sources/P05_v2.pdf",
+      "v2_pdf_sha256": "f566a15887575ddbeb92f21ad5f8b88f0215ffbbcdf607061a6decf2c6692937",
+      "v1_txt": "sources/P05_v1.txt",
+      "v2_txt": "sources/P05_v2.txt"
+    },
+    {
+      "pair_id": "P06",
+      "title": "Polling Unit Delimitation and Emergency Relocation Circular",
+      "issuer": "Electoral Commission (Synthetic)",
+      "jurisdiction": "Nigeria",
+      "election_context": "2027 General Election Cycle",
+      "split": "dev",
+      "v1_pdf": "sources/P06_v1.pdf",
+      "v1_pdf_sha256": "8b771afc171c41bcb596f4ea6d9ea27a18a17b1d3df45535a7f354da9d17e40a",
+      "v2_pdf": "sources/P06_v2.pdf",
+      "v2_pdf_sha256": "7f90794358cab00c48fb1da772099d3cc11f9dfe9d0d8cc75dbbf1eaf6ffd995",
+      "v1_txt": "sources/P06_v1.txt",
+      "v2_txt": "sources/P06_v2.txt"
+    },
+    {
+      "pair_id": "P07",
+      "title": "Online Continuous Voter Registration (CVR) Portal Operational Rules",
+      "issuer": "Electoral Commission (Synthetic)",
+      "jurisdiction": "Nigeria",
+      "election_context": "2027 General Election Cycle",
+      "split": "dev",
+      "v1_pdf": "sources/P07_v1.pdf",
+      "v1_pdf_sha256": "439e82e7194648c13085071b7955db575d41953da0cc4b06ca7652a59e749fbe",
+      "v2_pdf": "sources/P07_v2.pdf",
+      "v2_pdf_sha256": "d4d620c30b9b47a4bfe739fa626a5a79a4871af6c6b0b72ca17b81733818cf4d",
+      "v1_txt": "sources/P07_v1.txt",
+      "v2_txt": "sources/P07_v2.txt"
+    },
+    {
+      "pair_id": "P08",
+      "title": "Polling Unit Result Counting, Form EC8A Posting and Transmission Guidelines",
+      "issuer": "Electoral Commission (Synthetic)",
+      "jurisdiction": "Nigeria",
+      "election_context": "2027 General Election Cycle",
+      "split": "held_out",
+      "v1_pdf": "sources/P08_v1.pdf",
+      "v1_pdf_sha256": "b75a69204b987e4389c0b36ab5f83cfbf431152ed4c5b38d724c39fb4b641cb9",
+      "v2_pdf": "sources/P08_v2.pdf",
+      "v2_pdf_sha256": "a3347b8a23d100fbe02ab8440eb56a01cce3d723d0f2ba4da06fa723d438bdb0",
+      "v1_txt": "sources/P08_v1.txt",
+      "v2_txt": "sources/P08_v2.txt"
+    },
+    {
+      "pair_id": "P09",
+      "title": "Supplementary Directive on Permanent Voter Card (PVC) Collection",
+      "issuer": "Electoral Commission (Synthetic)",
+      "jurisdiction": "Nigeria",
+      "election_context": "2027 General Election Cycle",
+      "split": "held_out",
+      "v1_pdf": "sources/P09_v1.pdf",
+      "v1_pdf_sha256": "4c32af52b6722fe4b44a98cc6c04053470608a73f7ddebf7014d19f489eddc8a",
+      "v2_pdf": "sources/P09_v2.pdf",
+      "v2_pdf_sha256": "f47f13593741aef830a7aca52d7d69e787d7996cad5aa1ef397715f9bd780434",
+      "v1_txt": "sources/P09_v1.txt",
+      "v2_txt": "sources/P09_v2.txt"
+    },
+    {
+      "pair_id": "P10",
+      "title": "Guidelines for Election Observation and Media Accreditation",
+      "issuer": "Electoral Commission (Synthetic)",
+      "jurisdiction": "Nigeria",
+      "election_context": "2027 General Election Cycle",
+      "split": "held_out",
+      "v1_pdf": "sources/P10_v1.pdf",
+      "v1_pdf_sha256": "f7f5385db1ad6e76700728e2cc595a8215fbfab479b74e2ad0557e73d05aa6ef",
+      "v2_pdf": "sources/P10_v2.pdf",
+      "v2_pdf_sha256": "4d384873e8d3b6be070e44bda2bd9d43fa2948199725a94d823864cbeb9210b7",
+      "v1_txt": "sources/P10_v1.txt",
+      "v2_txt": "sources/P10_v2.txt"
+    }
+  ],
+  "materials": [
+    {
+      "material_id": "M01",
+      "title": "DEMO Register Now Flyer",
+      "owner": "Demo Civic Group",
+      "language": "en",
+      "pdf": "materials/M01.pdf",
+      "pdf_sha256": "730267159b7cc95231361afc7389964f01b2015baaaf4dd8f39fa8302b67b1cd",
+      "txt": "materials/M01.txt"
+    },
+    {
+      "material_id": "M02",
+      "title": "DEMO Voter Handbook Excerpt",
+      "owner": "Demo Media House",
+      "language": "en",
+      "pdf": "materials/M02.pdf",
+      "pdf_sha256": "fe6eb21a7124eb51673efcc6fd098fa324ad107cb9ac8adef924de7ef57de339",
+      "txt": "materials/M02.txt"
+    },
+    {
+      "material_id": "M03",
+      "title": "DEMO Election Day Media Guide",
+      "owner": "Demo Newsroom",
+      "language": "en",
+      "pdf": "materials/M03.pdf",
+      "pdf_sha256": "04392eab192eaaf28c6cdcf8da5f0dc7f864083b43c78c5be2297bdb01253e12",
+      "txt": "materials/M03.txt"
+    },
+    {
+      "material_id": "M04",
+      "title": "CSO Polling Hours Poster",
+      "owner": "Civic Watch NG",
+      "language": "en",
+      "pdf": "materials/M04.pdf",
+      "pdf_sha256": "850b733aa4ba1106ce432181c31e4b609b6a765864ea3caf8ca933890333252b",
+      "txt": "materials/M04.txt"
+    },
+    {
+      "material_id": "M05",
+      "title": "Observer Accreditation Checklist",
+      "owner": "Election Monitor Network",
+      "language": "en",
+      "pdf": "materials/M05.pdf",
+      "pdf_sha256": "3cf34b2fe7cd269a2b2dc9db9c95dae92c0cd5a982ce43cb96d36909442326d8",
+      "txt": "materials/M05.txt"
+    },
+    {
+      "material_id": "M06",
+      "title": "First-Time Voter Eligibility FAQ",
+      "owner": "Youth Vote Alliance",
+      "language": "en",
+      "pdf": "materials/M06.pdf",
+      "pdf_sha256": "294209f9211a29d173342e28c29efa8f4d9befa703154af6cf8cec4a135c138c",
+      "txt": "materials/M06.txt"
+    },
+    {
+      "material_id": "M07",
+      "title": "Voter Transfer Step-by-Step Guide",
+      "owner": "Citizen Action Hub",
+      "language": "en",
+      "pdf": "materials/M07.pdf",
+      "pdf_sha256": "74317cf3bdde2b6f1022af86cc6168093ebd0097dbcc60f7f2f5797e7a4f66b0",
+      "txt": "materials/M07.txt"
+    },
+    {
+      "material_id": "M08",
+      "title": "Claims and Objections Radio Script",
+      "owner": "Community Radio Coalition",
+      "language": "en",
+      "pdf": "materials/M08.pdf",
+      "pdf_sha256": "26796faf95ccaf55c5cd1422a924b906c7cf1ee022ea0beb0e910f1a877d500d",
+      "txt": "materials/M08.txt"
+    },
+    {
+      "material_id": "M09",
+      "title": "Lost PVC Replacement Leaflet",
+      "owner": "Voter Rights Initiative",
+      "language": "en",
+      "pdf": "materials/M09.pdf",
+      "pdf_sha256": "8c99b86166e3720b14c6989d566ebb99be2299cf44f0d2ec7c120b5853afd2ea",
+      "txt": "materials/M09.txt"
+    },
+    {
+      "material_id": "M10",
+      "title": "IDP Camp Voter Mobilization Guide",
+      "owner": "Displaced Persons Support Network",
+      "language": "en",
+      "pdf": "materials/M10.pdf",
+      "pdf_sha256": "e03ab1abdf5cba1bf574e64a8943f414a1d632050528a0cf87668390ebe37032",
+      "txt": "materials/M10.txt"
+    },
+    {
+      "material_id": "M11",
+      "title": "IDP Identification Requirements Flyer",
+      "owner": "Humanitarian Civic Desk",
+      "language": "en",
+      "pdf": "materials/M11.pdf",
+      "pdf_sha256": "1fab6b2ada9f9ffce2b737f0dfc15a8705d301920ac1d96cabebf1ef69b24d0b",
+      "txt": "materials/M11.txt"
+    },
+    {
+      "material_id": "M12",
+      "title": "Out-of-State IDP Ballot Scope Booklet",
+      "owner": "Democratic Inclusion Forum",
+      "language": "en",
+      "pdf": "materials/M12.pdf",
+      "pdf_sha256": "6c68ca74bfd0ce8f49b3d16929c89802ebbfd8f95122933376c0878513132dd7",
+      "txt": "materials/M12.txt"
+    },
+    {
+      "material_id": "M13",
+      "title": "Visually Impaired Voter Handbook",
+      "owner": "Inclusive Ballot Nigeria",
+      "language": "en",
+      "pdf": "materials/M13.pdf",
+      "pdf_sha256": "70c1cc212a33f77a8a5c4125ba497ed1ec8f7f3bd7269421e0ebf8084d866dcd",
+      "txt": "materials/M13.txt"
+    },
+    {
+      "material_id": "M14",
+      "title": "Priority Queue Poster for Elderly & PWDs",
+      "owner": "Access Vote Initiative",
+      "language": "en",
+      "pdf": "materials/M14.pdf",
+      "pdf_sha256": "f67fc219e8015dfbce684abc0ffe0243995575e64a5bf4170a0ae6547078c74a",
+      "txt": "materials/M14.txt"
+    },
+    {
+      "material_id": "M15",
+      "title": "Assisted Voting Companion Rules",
+      "owner": "Disability Rights Observer Group",
+      "language": "en",
+      "pdf": "materials/M15.pdf",
+      "pdf_sha256": "8c73d910d8fff85257ebcfc135f4ebd9a0f3ae7fbb3c76a31e1efe68411d81fa",
+      "txt": "materials/M15.txt"
+    },
+    {
+      "material_id": "M16",
+      "title": "New Polling Unit Threshold Guide",
+      "owner": "Ward Civic Educators",
+      "language": "en",
+      "pdf": "materials/M16.pdf",
+      "pdf_sha256": "42522584467d5d901cde2e60216ca45a04f356b043cd3a424bc5322ca29c2763",
+      "txt": "materials/M16.txt"
+    },
+    {
+      "material_id": "M17",
+      "title": "Relocated Polling Unit Notice Handbook",
+      "owner": "Grassroots Democracy Network",
+      "language": "en",
+      "pdf": "materials/M17.pdf",
+      "pdf_sha256": "2b51059d27a7f5ca4d64aa2f0038d55e858eb81cf112cc3e49f94f8c39889b73",
+      "txt": "materials/M17.txt"
+    },
+    {
+      "material_id": "M18",
+      "title": "Emergency Flood Relocation Protocol Card",
+      "owner": "Delta Civic Resilience Team",
+      "language": "en",
+      "pdf": "materials/M18.pdf",
+      "pdf_sha256": "4680dad89bbc695bd3b5e02d632b7460f55291e739c70963d9ebbb7c5b7a308d",
+      "txt": "materials/M18.txt"
+    },
+    {
+      "material_id": "M19",
+      "title": "Online CVR Pre-Registration Guide",
+      "owner": "Digital Civic Hub",
+      "language": "en",
+      "pdf": "materials/M19.pdf",
+      "pdf_sha256": "5532c0fe9d1e04053b5ab273f58554c397cf22c7cf5fecba2e8afed430059bb9",
+      "txt": "materials/M19.txt"
+    },
+    {
+      "material_id": "M20",
+      "title": "Biometric Capture Location FAQ",
+      "owner": "Voter Helpdesk NG",
+      "language": "en",
+      "pdf": "materials/M20.pdf",
+      "pdf_sha256": "f7fce0e68053848d378f2b8460b088c66f18beab08bfdd16e15f8fd671c47b95",
+      "txt": "materials/M20.txt"
+    },
+    {
+      "material_id": "M21",
+      "title": "Multiple Registration Warning Poster",
+      "owner": "Clean Register Campaign",
+      "language": "en",
+      "pdf": "materials/M21.pdf",
+      "pdf_sha256": "4b044dcac3a538d7ce0b05cb17e25d425ac9821f8684c69cbb31416eacf62f1d",
+      "txt": "materials/M21.txt"
+    },
+    {
+      "material_id": "M22",
+      "title": "Citizen Observer Result Sheet Guide",
+      "owner": "Transparency Watch NG",
+      "language": "en",
+      "pdf": "materials/M22.pdf",
+      "pdf_sha256": "a038b5402d62f703be374cc23ac09252c6ba304220534347ff84468a567c3e5a",
+      "txt": "materials/M22.txt"
+    },
+    {
+      "material_id": "M23",
+      "title": "Electronic Result Upload FAQ",
+      "owner": "Tech4Democracy Nigeria",
+      "language": "en",
+      "pdf": "materials/M23.pdf",
+      "pdf_sha256": "fbb07208261493ad8dd0f52f4c361c22e1421ea6c8643f9d26e15a1de49a6121",
+      "txt": "materials/M23.txt"
+    },
+    {
+      "material_id": "M24",
+      "title": "Over-Voting Determination Manual",
+      "owner": "Legal Election Observers",
+      "language": "en",
+      "pdf": "materials/M24.pdf",
+      "pdf_sha256": "fb2326e80e72ec65104e235aa18a1c2862980fd475d55aa98f8931aebf2cca7e",
+      "txt": "materials/M24.txt"
+    },
+    {
+      "material_id": "M25",
+      "title": "PVC Collection Proxy Warning Flyer",
+      "owner": "Voters Assembly NG",
+      "language": "en",
+      "pdf": "materials/M25.pdf",
+      "pdf_sha256": "0e833dff4c0b75a0ce1fe14ff2d93fdcb81b2229d608cfc0e933e78b136f68ac",
+      "txt": "materials/M25.txt"
+    },
+    {
+      "material_id": "M26",
+      "title": "Ward PVC Collection Deadline Card",
+      "owner": "LGA Civic Forum",
+      "language": "en",
+      "pdf": "materials/M26.pdf",
+      "pdf_sha256": "53aa46aa437dc0fe2d712522d60c1c0297f9363ab5e6fd381f891ebf33843de6",
+      "txt": "materials/M26.txt"
+    },
+    {
+      "material_id": "M27",
+      "title": "Weekend PVC Collection Hours Guide",
+      "owner": "Working Voters Network",
+      "language": "en",
+      "pdf": "materials/M27.pdf",
+      "pdf_sha256": "728d7d9004a22c08a0f9face29b103b0dae5567d4fa10f925ece306eec80c7c6",
+      "txt": "materials/M27.txt"
+    },
+    {
+      "material_id": "M28",
+      "title": "Domestic Observer Application Guide",
+      "owner": "CSO Observer Coalition",
+      "language": "en",
+      "pdf": "materials/M28.pdf",
+      "pdf_sha256": "e743f522f392bf653ca8a517e8048da0058cfc95622b808a8cbbaff84ba5a149",
+      "txt": "materials/M28.txt"
+    },
+    {
+      "material_id": "M29",
+      "title": "Observer Identification Badge Rules",
+      "owner": "Media & Civic Watch",
+      "language": "en",
+      "pdf": "materials/M29.pdf",
+      "pdf_sha256": "b45191479055fedb7863c4574423143c432d3a76f8c1f343be4f7cefad0d1c16",
+      "txt": "materials/M29.txt"
+    },
+    {
+      "material_id": "M30",
+      "title": "Polling Unit Photography Guidelines",
+      "owner": "Journalists for Credible Polls",
+      "language": "en",
+      "pdf": "materials/M30.pdf",
+      "pdf_sha256": "dc2eb0a7a828efc944cb969333437bea48b1450a4247c34c157eac08e3996874",
+      "txt": "materials/M30.txt"
+    }
+  ],
+  "edge_cases": [
+    {
+      "id": "EDGE-SCANNED-01",
+      "description": "Scanned poster PDF with vector graphics and zero extractable text (tests AC03 incomplete blocking)",
+      "pdf": "edge_cases/scanned_unreadable_poster.pdf",
+      "pdf_sha256": "3589a68fa8dac18811ede58c7a47871a56109a5f75517cb684cc93cf1e160973"
+    }
+  ]
+}

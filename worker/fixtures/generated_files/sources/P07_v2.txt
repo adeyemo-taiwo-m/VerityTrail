@@ -1,0 +1,13 @@
+1. Biometric Completion Window for Online Pre-Registrants
+
+Applicants who begin pre-registration on the online CVR portal must complete physical biometric capture within 21 days.
+
+2. Designated Biometric Capture Centres
+
+Physical biometric capture for online pre-registrants is conducted at all 774 Local Government Area offices as well as State Headquarters.3. Treatment of Multiple or Duplicate Registrations
+
+Where an applicant registers more than once during the CVR exercise, the subsequent duplicate registration shall be voided while the original valid registration record is retained.
+
+4. Portal Maintenance Window
+
+The online pre-registration portal performs automated backups every Sunday at 2:00 AM.

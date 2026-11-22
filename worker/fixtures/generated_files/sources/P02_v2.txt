@@ -1,0 +1,13 @@
+1. Polling Unit Opening and Closing Hours
+
+Accreditation and voting at all polling units shall close promptly at 2:30 PM, provided voters already in the queue at 2:30 PM shall be allowed to vote.
+
+2. Biometric Authentication on BVAS
+
+Where fingerprint authentication fails on the BVAS device, the Presiding Officer shall verify the voter strictly by BVAS facial authentication without issuing any Incident Form.3. Voter Registration Eligibility
+
+To register as a voter, an applicant must be at least 18 years old and a citizen of Nigeria without any minimum ward residency duration requirement.
+
+4. Presiding Officer Logbook
+
+The Presiding Officer shall record the serial number and battery level of the BVAS device before opening the poll.

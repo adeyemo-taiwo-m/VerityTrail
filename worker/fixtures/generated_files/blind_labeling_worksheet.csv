@@ -1,0 +1,309 @@
+pair_id,document_title,split,v1_text,v2_text,annotator_id,labelled_changes_count,labelled_change_categories,affected_material_ids,annotator_notes
+P01,DEMO Continuous Voter Registration Guidelines,dev,"1. Continuous Voter Registration
+
+Eligible citizens may register to vote at any registration centre until 31 December 2026.
+
+2. Eligibility
+
+A person must be at least 18 years old and a citizen of Nigeria to register.
+---
+3. Collection of PVC
+
+Registered voters must collect their Permanent Voter's Card within 30 days of notification.
+
+4. Accreditation
+
+Voters must present their PVC for accreditation before voting.
+
+Voters may be accompanied by one companion while waiting.","1. Continuous Voter Registration
+
+Eligible citizens may register to vote at any registration centre until 15 January 2027.
+
+2. Eligibility
+
+A person must be at least 18 years old and a citizen of Nigeria to register.
+---
+3. Collection of PVC
+
+Registered voters must collect their Permanent Voter's Card within 60 days of notification.
+
+4. Accreditation
+
+Voters must present their PVC and a valid form of identification for accreditation before voting.
+
+5. Transfer of registration
+
+Voters who have moved may apply for transfer of registration during the registration window.",,,,,
+P02,Polling Unit Accreditation and Voting Procedure Notice,dev,"1. Polling Unit Opening and Closing Hours
+
+Accreditation and voting at all polling units shall close promptly at 2:00 PM.
+
+2. Biometric Authentication on BVAS
+
+Where fingerprint authentication fails on the BVAS device, the Presiding Officer shall issue an Incident Form to the voter.
+---
+3. Voter Registration Eligibility
+
+To register as a voter, an applicant must be at least 18 years old and provide proof of 12 months residency in the ward.
+
+4. Presiding Officer Logbook
+
+The Presiding Officer shall record the serial number of the BVAS device before opening the poll.","1. Polling Unit Opening and Closing Hours
+
+Accreditation and voting at all polling units shall close promptly at 2:30 PM, provided voters already in the queue at 2:30 PM shall be allowed to vote.
+
+2. Biometric Authentication on BVAS
+
+Where fingerprint authentication fails on the BVAS device, the Presiding Officer shall verify the voter strictly by BVAS facial authentication without issuing any Incident Form.
+---
+3. Voter Registration Eligibility
+
+To register as a voter, an applicant must be at least 18 years old and a citizen of Nigeria without any minimum ward residency duration requirement.
+
+4. Presiding Officer Logbook
+
+The Presiding Officer shall record the serial number and battery level of the BVAS device before opening the poll.",,,,,
+P03,Voter Transfer and Claims & Objections Regulations,dev,"1. Timeline for Transfer of Registered Voters
+
+Applications for transfer of voter registration must be submitted not later than 30 days before election day.
+
+2. Display of Preliminary Register for Claims and Objections
+
+The preliminary register of voters shall be displayed at ward headquarters for 7 days for public scrutiny.
+---
+3. Replacement of Lost or Damaged PVC
+
+An application for replacement of a lost Permanent Voter's Card must include a sworn court affidavit and a police extract.
+
+4. Archiving of Objections
+
+Revision officers shall file daily summaries of claims received at the ward centre.","1. Timeline for Transfer of Registered Voters
+
+Applications for transfer of voter registration must be submitted not later than 90 days before election day.
+
+2. Display of Preliminary Register for Claims and Objections
+
+The preliminary register of voters shall be displayed at ward headquarters and online for 14 days for public scrutiny.
+---
+3. Replacement of Lost or Damaged PVC
+
+An application for replacement of a lost Permanent Voter's Card must include a completed Form EC-9B and National Identification Number verification without requiring a police extract.
+
+4. Archiving of Objections
+
+Revision officers shall file daily electronic summaries of claims received at the ward centre.",,,,,
+P04,Framework and Guidelines for Internally Displaced Persons (IDP) Voting,dev,"1. IDP Voter Revalidation Deadline
+
+Internally displaced persons in designated camps must complete voter record revalidation by 10 October 2026.
+
+2. Accreditation Documents at IDP Polling Centres
+
+Displaced voters without a physical PVC may be accredited using a camp registration slip signed by the camp manager.
+---
+3. Scope of Elections for Out-of-State IDP Camps
+
+Displaced voters residing in camps outside their home state are eligible to vote in Presidential and Governorship elections.
+
+4. Security Escort for IDP Materials
+
+Sensitive materials for IDP centres shall be accompanied by unarmed civil defence personnel.","1. IDP Voter Revalidation Deadline
+
+Internally displaced persons in designated camps must complete voter record revalidation by 25 November 2026.
+
+2. Accreditation Documents at IDP Polling Centres
+
+Displaced voters at IDP polling centres must present a reissued Permanent Voter's Card or be verified on the BVAS camp register; camp registration slips shall not be accepted.
+---
+3. Scope of Elections for Out-of-State IDP Camps
+
+Displaced voters residing in camps outside their home state are eligible to vote only in the Presidential election.
+
+4. Security Escort for IDP Materials
+
+Sensitive materials for IDP centres shall be accompanied by inter-agency electoral security personnel.",,,,,
+P05,Guidelines on Persons with Disabilities (PWD) and Assistive Voting,dev,"1. Deployment of Braille Ballot Guides
+
+Braille ballot guides shall be deployed only to urban polling units with at least 20 registered visually impaired voters.
+
+2. Priority Queue Access
+
+Pregnant women, nursing mothers, and persons with disabilities may join the general queue or request priority access after 11:00 AM.
+---
+3. Eligibility of Assisting Companions
+
+A voter with a physical disability who requires assistance in the voting cubicle may be assisted by any person including a party agent.
+
+4. Form EC40H Disability Recording
+
+Presiding Officers shall record disaggregated disability participation counts on Form EC40H.","1. Deployment of Braille Ballot Guides
+
+Braille ballot guides and magnifying sheets shall be deployed to all polling units nationwide with at least 1 registered visually impaired voter.
+
+2. Priority Queue Access
+
+Pregnant women, nursing mothers, elderly citizens, and persons with disabilities shall be granted immediate priority queue access from 8:30 AM.
+---
+3. Eligibility of Assisting Companions
+
+A voter with a physical disability who requires assistance in the voting cubicle must be assisted by a trusted family member of their choice and shall not be assisted by a party agent or poll official.
+
+4. Form EC40H Disability Recording
+
+Presiding Officers shall record disaggregated disability participation counts on Form EC40H and transmit the summary.",,,,,
+P06,Polling Unit Delimitation and Emergency Relocation Circular,dev,"1. Threshold for Splitting Populous Polling Units
+
+A polling unit shall be split into sub-units only when the number of registered voters exceeds 1,000 voters.
+
+2. Notice Period for Relocated Polling Units
+
+Notice of any polling unit relocated from a private residence or worship centre must be published at least 7 days before the election.
+---
+3. Climate and Flood Emergency Relocation
+
+Where flash flooding submerges a polling unit, voting may be relocated to any nearby dry building outside the registration area.
+
+4. Geo-Coordinates Registry
+
+Electoral Officers shall verify GPS coordinates for all newly split polling units.","1. Threshold for Splitting Populous Polling Units
+
+A polling unit shall be split into voting points or new polling units when the number of registered voters exceeds 750 voters.
+
+2. Notice Period for Relocated Polling Units
+
+Notice of any polling unit relocated from a private residence or worship centre must be published at least 30 days before the election.
+---
+3. Climate and Flood Emergency Relocation
+
+Where flash flooding submerges a polling unit, voting must be relocated strictly to a designated public school or civic hall within the same registration area.
+
+4. Geo-Coordinates Registry
+
+Electoral Officers shall verify and publish GPS coordinates for all newly split polling units.",,,,,
+P07,Online Continuous Voter Registration (CVR) Portal Operational Rules,dev,"1. Biometric Completion Window for Online Pre-Registrants
+
+Applicants who begin pre-registration on the online CVR portal must complete physical biometric capture within 14 days.
+
+2. Designated Biometric Capture Centres
+
+Physical biometric capture for online pre-registrants is conducted only at the State Headquarters office.
+---
+3. Treatment of Multiple or Duplicate Registrations
+
+Where an applicant registers more than once during the CVR exercise, both the earlier and later registration records shall be cancelled.
+
+4. Portal Maintenance Window
+
+The online pre-registration portal performs automated backups every Sunday at midnight.","1. Biometric Completion Window for Online Pre-Registrants
+
+Applicants who begin pre-registration on the online CVR portal must complete physical biometric capture within 21 days.
+
+2. Designated Biometric Capture Centres
+
+Physical biometric capture for online pre-registrants is conducted at all 774 Local Government Area offices as well as State Headquarters.
+---
+3. Treatment of Multiple or Duplicate Registrations
+
+Where an applicant registers more than once during the CVR exercise, the subsequent duplicate registration shall be voided while the original valid registration record is retained.
+
+4. Portal Maintenance Window
+
+The online pre-registration portal performs automated backups every Sunday at 2:00 AM.",,,,,
+P08,"Polling Unit Result Counting, Form EC8A Posting and Transmission Guidelines",held_out,"1. Public Posting of Form EC8A at Polling Unit
+
+After counting votes, the Presiding Officer may optionally paste a copy of Form EC8A at the polling unit before leaving for the ward collation centre.
+
+2. Electronic Transmission of Result Sheets
+
+The Presiding Officer shall transmit the scanned Form EC8A result sheet only after arriving at the Ward Collation Centre.
+---
+3. Statutory Definition of Over-Voting
+
+Over-voting occurs where total votes cast at a polling unit exceed the total number of registered voters on the manual register.
+
+4. Packaging of Tamper-Evident Envelopes
+
+Used ballot counterfoils shall be sealed inside envelope EC50A before departure.","1. Public Posting of Form EC8A at Polling Unit
+
+After counting votes, the Presiding Officer must mandatorily paste the duplicate Form EC8A EC60E poster conspicuously at the polling unit before leaving for the ward collation centre.
+
+2. Electronic Transmission of Result Sheets
+
+The Presiding Officer shall scan and transmit the Form EC8A result sheet directly from the polling unit immediately after signing and announcing the scores.
+---
+3. Statutory Definition of Over-Voting
+
+Over-voting occurs where total votes cast at a polling unit exceed the total number of accredited voters recorded on the BVAS device for that polling unit.
+
+4. Packaging of Tamper-Evident Envelopes
+
+Used ballot counterfoils and result copies shall be sealed inside tamper-evident envelope EC50A before departure.",,,,,
+P09,Supplementary Directive on Permanent Voter Card (PVC) Collection,held_out,"1. Prohibition of PVC Collection by Proxy
+
+A registered voter who is unable to attend in person may authorize a family member with a signed power of attorney to collect their PVC.
+
+2. Ward-Level PVC Collection Closing Date
+
+Ward-level devolution of PVC collection shall end on 20 January 2027, after which uncollected cards return to the LGA office.
+---
+3. Operating Days and Hours for PVC Collection
+
+PVC collection desks operate Monday to Friday between 9:00 AM and 3:00 PM and are closed on Saturdays and Sundays.
+
+4. Daily Uncollected PVC Register
+
+Collection officers shall log the serial numbers of collected PVCs at the close of each day.","1. Prohibition of PVC Collection by Proxy
+
+Every registered voter must appear in person to collect their PVC; collection by proxy or power of attorney is strictly prohibited.
+
+2. Ward-Level PVC Collection Closing Date
+
+Ward-level devolution of PVC collection shall end on 5 February 2027, after which uncollected cards return to the LGA office.
+---
+3. Operating Days and Hours for PVC Collection
+
+PVC collection desks operate Monday to Sunday including Saturdays and Sundays between 8:30 AM and 5:00 PM.
+
+4. Daily Uncollected PVC Register
+
+Collection officers shall log and sign the serial numbers of collected PVCs at the close of each day.",,,,,
+P10,Guidelines for Election Observation and Media Accreditation,held_out,"1. Observer Portal Submission Deadline
+
+Domestic election observer groups must upload individual observer photographs and particulars by 5 February 2027.
+
+2. Collation Centre Access Credentials
+
+Accredited observers may enter ward collation centres using either an official INEC observer badge or a letter of introduction from their organization.
+---
+3. Voting Cubicle Secrecy and Photography
+
+Accredited journalists and voters are permitted to photograph marked ballot papers inside the voting cubicle for personal verification.
+
+4. International Observer Briefing
+
+A joint briefing for accredited observer missions will hold in Abuja three days before the poll.
+
+5. Observer Field Report Submission
+
+Accredited observer groups shall submit their preliminary observation report within 14 days after the election.","1. Observer Portal Submission Deadline
+
+Domestic election observer groups must upload individual observer photographs and particulars by 18 February 2027.
+
+2. Collation Centre Access Credentials
+
+Accredited observers must present a QR-coded official INEC observer badge to enter ward collation centres; letters of introduction alone shall not grant entry.
+---
+3. Voting Cubicle Secrecy and Photography
+
+Photographing or filming marked ballot papers inside the voting cubicle is strictly prohibited for voters, journalists, and observers.
+
+4. International Observer Briefing
+
+A joint briefing for accredited observer missions will hold in Abuja two days before the poll.
+
+5. Observer Field Report Submission
+
+Accredited observer groups shall submit their preliminary observation report within 30 days after the election.
+
+6. Emergency Incident Escalation Desk
+
+Observers may report critical polling unit incidents through the dedicated observer situation room hotline.",,,,,
